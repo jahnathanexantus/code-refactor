@@ -132,9 +132,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-.social-media-marketing, 
-.online-reputation-management, 
-.search-engine-optimization {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,9 +158,7 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }   */
-.social-media-marketing img,
-.online-reputation-management img,
-.search-engine-optimization img {
+section img {
     max-height: 200px;
 }
 
@@ -173,9 +169,7 @@ aside {
 .social-media-marketing img {
     max-height: 200px;
 } */
-.social-media-marketing h2,
-.online-reputation-management h2,
-.search-engine-optimization h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
